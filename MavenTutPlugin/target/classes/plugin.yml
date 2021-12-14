@@ -1,4 +1,0 @@
-name: 'MavenTutPlugin'
-version: '1.0.0'
-main: io.github.captainsully.maventutplugin.MavenTutPlugin
-api-version: '1.17'

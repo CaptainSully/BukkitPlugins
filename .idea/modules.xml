@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BukkitPlugins.iml" filepath="$PROJECT_DIR$/.idea/BukkitPlugins.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MavenTutPlugin/MavenTutPlugin.iml" filepath="$PROJECT_DIR$/MavenTutPlugin/MavenTutPlugin.iml" />
-    </modules>
-  </component>
-</project>
